@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 AI Engineer with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)**. 
 
@@ -23,7 +23,7 @@ I focus on building **production-ready AI applications**, not just models.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🔹 AI Intern – IHUB ROBOTIC
 - Developed LLM applications using LangChain
@@ -41,9 +41,9 @@ I focus on building **production-ready AI applications**, not just models.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 Multi-Agent AI Code Generator
+###  Multi-Agent AI Code Generator
 Autonomous AI system using CrewAI with 4 role-based agents (Analyst, Architect, Engineer, QA).  
 Built with Streamlit, SQLite, and secure authentication.
 
