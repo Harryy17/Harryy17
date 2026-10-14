@@ -8,7 +8,7 @@
 
 Building AI products from customer requirements through implementation and deployment.
 
-[LinkedIn](https://linkedin.com/in/sreehari-ps) · [Email](mailto:sreeharips385@gmail.com) · [Explore my projects](https://github.com/Harryy17?tab=repositories)
+[LinkedIn]([https://linkedin.com/in/sreehari-ps](https://www.linkedin.com/in/sreehari-ps-4446b4266/)) · [Email](mailto:sreeharips385@gmail.com) · [Explore my projects](https://github.com/Harryy17?tab=repositories)
 
 </div>
 
